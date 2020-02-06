@@ -1,0 +1,8 @@
+nav{
+	border-bottom:1px gold;
+}
+
+Links ol{
+	list-style: none;
+	padding-left: 0;
+}
