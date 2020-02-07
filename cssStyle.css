@@ -39,6 +39,16 @@ h3{
 	background-color: slateblue
 
 }
+.button{
+	font-size: xx-large;
+    background-color:honeydew;
+}
+
+.buttonlayout{
+	font-size: xx-large;
+    background-color:honeydew;
+}
+
 .footer{
 	font-size: xx-large;
 	background-color: rosybrown

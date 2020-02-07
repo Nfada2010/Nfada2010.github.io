@@ -7,7 +7,7 @@
 	margin: 2rem auto;
 	padding: 11px;
 	min-width: 500px;
-	min-height: 500px;
+	max-height: auto;
 }
 
 h1{
@@ -18,7 +18,7 @@ h1{
 	margin: 2rem auto;
 	padding: 11px;
 	min-width: 500px;
-	min-height: 500px;
+	max-height: auto;
 }
 
 h2{
@@ -29,7 +29,7 @@ h2{
 	margin: 2rem auto;
 	padding: 11px;
 	min-width: 500px;
-	min-height: 500px;
+	max-height: auto;
 }
 
 h3{
@@ -40,7 +40,7 @@ h3{
 	margin: 2rem auto;
 	padding: 11px;
 	min-width: 500px;
-	min-height: 500px;
+	max-height: auto;
 }
 
 .container{
@@ -59,8 +59,8 @@ h3{
 	justify-content: center;
 	align-items: center;
 	margin: 2rem auto;
-	min-height: 500px;
-	min-width: 500px;
+	max-height: auto;
+	max-width: auto;
 
 }
 
@@ -92,6 +92,22 @@ h3{
 	max-height: 500px;
 	max-width: 500px;
 
+}
+.button{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	min-height: 100px;
+	min-width: 100px;
+}
+.buttonlayout{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	min-height: 500px;
+	min-width: 500px;
 }
  
 
