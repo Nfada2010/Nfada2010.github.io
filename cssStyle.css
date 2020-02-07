@@ -1,19 +1,20 @@
 .header{
-	
+	font-size: xx-large;
 	background-color: sienna;
 }
 h1{
+    font-size: x-large;
 
 	background-color:gray;
 	
 }
 h2{
-	
+	font-size: x-large;
 	background-color:olive;
 	
 }
 h3{
-	
+	font-size: large;
 	background-color:lightskyblue;
 	
 }
@@ -23,18 +24,24 @@ h3{
 	
 }
 .bodyText{
-	
+	font-size: large;
 	background-color: darkkhaki
 
 }
 .main{
-	
-	background-color: darksalmon
+	font-size: large;
+    background-color: darksalmon
+    
 
 }
 .title{
-	
+	font-size: x-large;
 	background-color: slateblue
+
+}
+.footer{
+	font-size: xx-large;
+	background-color: rosybrown
 
 }
  
