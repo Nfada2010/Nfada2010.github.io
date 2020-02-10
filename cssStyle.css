@@ -1,57 +1,57 @@
 .header{
 	font-size: xx-large;
-	background-color: sienna;
+	background-color: rgba(199, 128, 95, 0.849);
 }
 h1{
     font-size: x-large;
 
-	background-color:gray;
+	background-color:rgba(97, 138, 100, 0.74);
 	
 }
 h2{
 	font-size: x-large;
-	background-color:olive;
+	background-color:rgba(114, 114, 46, 0.774);
 	
 }
 h3{
 	font-size: large;
-	background-color:lightskyblue;
+	background-color:rgba(140, 186, 214, 0.808);
 	
 }
 .container{
 	
-	background-color: thistle;
+	background-color: rgba(243, 186, 139, 0.856);
 	
 }
 .bodyText{
 	font-size: large;
-	background-color: darkkhaki
+	background-color: rgba(163, 160, 108, 0.822);
 
 }
 .main{
 	font-size: large;
-    background-color: darksalmon
+    background-color: rgba(201, 177, 127, 0.87);
     
 
 }
 .title{
 	font-size: x-large;
-	background-color: slateblue
+	background-color: rgb(105, 98, 151);
 
 }
 .button{
 	font-size: xx-large;
-    background-color:rgb(67, 219, 67);
+    background-color:rgba(97, 138, 100, 0.74);
 }
 
 .buttonlayout{
 	font-size: xx-large;
-    background-color:honeydew;
+    background-color:rgb(200, 221, 200);
 }
 
 .footer{
 	font-size: xx-large;
-	background-color: rosybrown
+	background-color: rgba(199, 128, 95, 0.849);
 
 }
  
