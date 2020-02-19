@@ -1,26 +1,52 @@
 .header{
 	font-size: xx-large;
-	background-color: rgba(199, 128, 95, 0.849);
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	background-color:rgba(97, 138, 100, 0.74);
+	height: auto;
+  width: auto;
+  background-color: rgba(92, 119, 49, 0.822); /* For browsers that do not support gradients */
+  background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.822), rgba(192, 132, 63, 0.849) 10%, rgba(98, 138, 98, 0.89) 15%);
 }
 h1{
     font-size: x-large;
-
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
 	background-color:rgba(97, 138, 100, 0.74);
+	height: auto;
+  width: auto;
+  background-color: rgba(92, 119, 49, 0.822); /* For browsers that do not support gradients */
+  background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.822), rgba(192, 132, 63, 0.849) 10%, rgba(98, 138, 98, 0.89) 15%);
 	
 }
 h2{
 	font-size: x-large;
-	background-color:rgba(114, 114, 46, 0.774);
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	background-color:rgba(97, 138, 100, 0.74);
+	height: auto;
+  width: auto;
+  background-color: rgba(92, 119, 49, 0.822); /* For browsers that do not support gradients */
+  background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.822), rgba(192, 132, 63, 0.849) 10%, rgba(98, 138, 98, 0.89) 15%);
 	
 }
 h3{
-	font-size: large;
-	background-color:rgba(140, 186, 214, 0.808);
+	font-size: x-large;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	background-color:rgba(97, 138, 100, 0.74);
+	height: auto;
+  width: auto;
+  background-color: rgba(92, 119, 49, 0.822); /* For browsers that do not support gradients */
+  background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.822), rgba(192, 132, 63, 0.849) 10%, rgba(98, 138, 98, 0.89) 15%);
 	
 }
 .container{
 	
-	background-color: rgba(243, 186, 139, 0.856);
+	height: auto;
+	width: auto;
+	background-color: rgba(211, 144, 57, 0.904); /* For browsers that do not support gradients */
+	background-image: repeating-radial-gradient(rgba(98, 138, 98, 0.89)15%,  rgba(192, 132, 63, 0.849) 10%, rgba(98, 138, 98, 0.89)15%);
 	
 }
 .bodyText{
