@@ -52,13 +52,14 @@ h3{
 .bodyText{
 	font-size: large;
 	background-color: rgba(163, 160, 108, 0.822);
-
+	background: url(eberhard-grossgasteiger-TAltZdM1BGI-unsplash.jpg) fixed center;
+    background-size: auto;
 }
 .main{
 	font-size: large;
-    background-color: rgba(201, 177, 127, 0.87);
-    
-
+	background-color: rgba(201, 177, 127, 0.87);
+	background: url(eberhard-grossgasteiger-TAltZdM1BGI-unsplash.jpg);
+    background-size: contain;
 }
 .title{
 	font-size: x-large;
