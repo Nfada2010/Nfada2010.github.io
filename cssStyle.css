@@ -16,7 +16,7 @@ h1{
 	height: auto;
   width: auto;
   background-color: rgba(92, 119, 49, 0.822); /* For browsers that do not support gradients */
-  background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.822), rgba(192, 132, 63, 0.849) 10%, rgba(98, 138, 98, 0.89) 15%);
+  background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.404), rgba(192, 132, 63, 0.5) 10%, rgba(98, 138, 98, 0.5) 15%);
 	
 }
 h2{
