@@ -98,4 +98,12 @@ h3{
 
 }
  
+.main_photos{
+	border-radius: 20px;
+}
+
+.text_container{
+	background-color:rgba(200, 221, 200, 0.473);
+	border: #000000;
+}
  
