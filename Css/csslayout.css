@@ -1,0 +1,271 @@
+.header {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	padding: 11px;
+	min-width: 500px;
+	max-height: auto;
+	border-radius: 25px;
+}
+
+h1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	padding: 11px;
+	min-width: 500px;
+	max-height: auto;
+	border-radius: 25px;
+}
+
+h2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	padding: 11px;
+	min-width: 500px;
+	max-height: auto;
+	border-radius: 25px;
+}
+
+h3 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	padding: 11px;
+	min-width: 500px;
+	max-height: auto;
+	border-radius: 25px;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	padding: 11px;
+	max-width: 1000px;
+	border-radius: 25px;
+}
+
+.aboutMeContainer{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	padding: 11px;
+	max-width: 1000px;
+	border-radius: 25px;
+}
+
+.websiteContainer{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	padding: 11px;
+	max-width: 1000px;
+	border-radius: 25px;
+}
+
+.bodyText {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	max-height: auto;
+	max-width: auto;
+	border-radius: 25px;
+
+}
+
+.main {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	min-height: auto;
+	min-width: auto;
+
+
+}
+
+.title {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	min-height: 500px;
+	min-width: 500px;
+	border-radius: 25px;
+
+}
+
+.footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	max-height: 500px;
+	max-width: auto;
+	border-radius: 25px;
+
+}
+
+.certs {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	max-height: 500px;
+	max-width: auto;
+	border-radius: 25px;
+
+}
+
+.buttonHolder {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	max-height: 500px;
+	max-width: auto;
+	border-radius: 25px;
+}
+
+.button {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	min-height: 100px;
+	min-width: 100px;
+	border-radius: 25px;
+}
+
+
+.buttonlayout {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	min-height: 500px;
+	min-width: 500px;
+	border-radius: 25px;
+}
+
+.text_container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	max-height: 500px;
+	max-width: 500px;
+	border-radius: 25px;
+
+}
+
+.programContainer {
+	display: flex;
+	flex-direction: row;
+}
+
+.headerProject {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	padding: 11px;
+	min-width: 500px;
+	max-height: auto;
+	border-radius: 25px;
+}
+
+.skillContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	padding: 11px;
+	max-width: 1000px;
+	border-radius: 25px;
+}
+
+.indexContainer{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	padding: 11px;
+	max-width: 1000px;
+	border-radius: 25px;
+}
+
+.skillBackground {
+	height: auto;
+	width: auto;
+}
+
+.indexBackground {
+	height: auto;
+	width: auto;
+}
+
+.selfPicture {
+	border-radius: 50px;
+}
+
+.projectContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	padding: 11px;
+	max-width: auto;
+	border-radius: 25px;
+}
+
+.mainProjectContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	padding: 11px;
+	max-width: auto;
+	border-radius: 25px;
+}
+
+.skilltext1{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+
+}
+.skilltext2{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+
+}
