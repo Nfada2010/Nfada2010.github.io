@@ -78,6 +78,16 @@ h3 {
 	max-width: 1000px;
 	border-radius: 25px;
 }
+.mainProjectContainer{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	padding: 11px;
+	max-width: auto;
+	border-radius: 25px;
+}
 
 .bodyText {
 	display: flex;
@@ -204,11 +214,12 @@ h3 {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin: auto;
+	margin: 2rem auto;
 	padding: 11px;
 	max-width: 1000px;
 	border-radius: 25px;
 }
+
 
 .indexContainer{
 	display: flex;
