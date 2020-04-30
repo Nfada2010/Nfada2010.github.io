@@ -49,7 +49,17 @@ h3 {
 
 }
 
-.container {
+.aboutMeContainer {
+	font-size: large;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+
+	height: auto;
+	width: auto;
+	background-image: repeating-radial-gradient(rgba(18, 95, 18, 0.466)15%, rgba(190, 255, 153, 0.473), rgba(26, 97, 26, 0.432));
+border-radius: 25px;
+}
+.websiteContainer{
 	font-size: large;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
@@ -59,7 +69,6 @@ h3 {
 	background-color: rgba(211, 144, 57, 0.486);
 	/* For browsers that do not support gradients */
 	background-image: repeating-radial-gradient(rgba(98, 138, 98, 0.466)15%, rgba(192, 132, 63, 0.473), rgba(98, 138, 98, 0.432));
-
 }
 
 .bodyText {
