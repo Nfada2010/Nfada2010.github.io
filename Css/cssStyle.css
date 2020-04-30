@@ -66,9 +66,8 @@ border-radius: 25px;
 
 	height: auto;
 	width: auto;
-	background-color: rgba(211, 144, 57, 0.486);
-	/* For browsers that do not support gradients */
-	background-image: repeating-radial-gradient(rgba(98, 138, 98, 0.466)15%, rgba(192, 132, 63, 0.473), rgba(98, 138, 98, 0.432));
+	background-image: repeating-radial-gradient(rgba(18, 95, 18, 0.466)15%, rgba(190, 255, 153, 0.473), rgba(26, 97, 26, 0.432));
+border-radius: 25px;
 }
 
 .bodyText {
@@ -203,4 +202,19 @@ border-radius: 25px;
 .body {
 	background: url(https://images.unsplash.com/photo-1588097247274-a174dd59f20d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)fixed center;
 	background-size: cover;
+}
+
+.linkStyle{
+	font-size: 25px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+
+}
+
+.linkStyle:hover{
+	font-size: 50px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	animation-duration:1s ;
+
 }

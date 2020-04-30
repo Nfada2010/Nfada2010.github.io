@@ -68,6 +68,17 @@ h3 {
 	border-radius: 25px;
 }
 
+.websiteContainer{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto;
+	padding: 11px;
+	max-width: 1000px;
+	border-radius: 25px;
+}
+
 .bodyText {
 	display: flex;
 	flex-direction: column;
