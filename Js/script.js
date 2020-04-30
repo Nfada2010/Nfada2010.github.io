@@ -1,13 +1,23 @@
-<html>
+const indexContainer = document.querySelector(".index_container")
 
-</html>
-<link rel="stylesheet" href="../Css/csslayout.css">
-<link rel="stylesheet" href="../Css/cssStyle.css">
-<link rel="stylesheet" href="../Css/css/all.css">
-<link rel="stylesheet" href="../Images/">
+let aboutMeButton = document.querySelector(".about_me_button")
+// let skillButton = document.querySelector(".skill_button")
+// let websiteButton = document.querySelector(".website_button")
+// let projectButton = document.querySelector(".project_button")
+// let homeButton = document.querySelector(".home_button")
 
-
-<header class="header">
+const aboutMe = () =>{
+    
+if (indexContainer.firstChild){
+    indexContainer.innerHTML = ""
+}
+const aboutMeCard = document.createElement("div")
+const aboutMeAnchor = document.createElement("div")
+aboutMeAnchor.classList.add("about_me_anchor")
+aboutMeAnchor.classList.add("about_me_card")
+indexContainer.appendChild(aboutMeAnchor)
+aboutMeAnchor.appendChild(aboutMeCard)
+aboutMeCard.innerHTML = `<header class="header">
     About Me
 </header>
 
@@ -121,6 +131,29 @@
 
         <p><a href="index.html"> Back to the Main Page </a> </p>
     </button>
-</footer>
+</footer>`
+}
 
-<script src="../Js/script.js"></script>
+
+// const skill = () =>{
+
+// }
+
+// const website = () =>{
+
+// }
+
+// const project = () => {
+
+// }
+
+// const home = () =>{
+
+// }
+
+
+aboutMeButton.addEventListener("click",aboutMe)
+// skillButton.addEventListener("click",skill)
+// websiteButton.addEventListener("click",website)
+// projectButton.addEventListener("click",project)
+// homeButton.addEventListener("click",home)

@@ -188,6 +188,17 @@ h3 {
 	border-radius: 25px;
 }
 
+.indexContainer{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	padding: 11px;
+	max-width: 1000px;
+	border-radius: 25px;
+}
+
 .skillBackground {
 	height: auto;
 	width: auto;
