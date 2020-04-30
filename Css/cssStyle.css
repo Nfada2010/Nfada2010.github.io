@@ -1,178 +1,196 @@
-.header{
+.header {
 	font-size: xx-large;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
-	background-color:rgba(97, 138, 100, 0.445);
+	background-color: rgba(97, 138, 100, 0.445);
 	height: auto;
-  width: auto;
-  background-color: rgba(92, 119, 49, 0.466); /* For browsers that do not support gradients */
-  background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.466), rgba(192, 132, 63, 0.445), rgba(98, 138, 98, 0.445) );
+	width: auto;
+	background-color: rgba(92, 119, 49, 0.466);
+	/* For browsers that do not support gradients */
+	background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.466), rgba(192, 132, 63, 0.445), rgba(98, 138, 98, 0.445));
 }
-h1{
-    font-size: 50px;
+
+h1 {
+	font-size: 50px;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
-	background-color:rgba(97, 138, 100, 0.411);
+	background-color: rgba(97, 138, 100, 0.411);
 	height: auto;
-  width: auto;
-  background-color: rgba(92, 119, 49, 0.822); /* For browsers that do not support gradients */
-  background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.404), rgba(192, 132, 63, 0.5) , rgba(98, 138, 98, 0.5) );
-	
+	width: auto;
+	background-color: rgba(92, 119, 49, 0.822);
+	/* For browsers that do not support gradients */
+	background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.404), rgba(192, 132, 63, 0.5), rgba(98, 138, 98, 0.5));
+
 }
-h2{
+
+h2 {
 	font-size: x-large;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
-	background-color:rgba(97, 138, 100, 0.466);
+	background-color: rgba(97, 138, 100, 0.466);
 	height: auto;
-  width: auto;
-  background-color: rgba(92, 119, 49, 0.466); /* For browsers that do not support gradients */
-  background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.445), rgba(192, 132, 63, 0.425) , rgba(98, 138, 98, 0.37) );
-	
+	width: auto;
+	background-color: rgba(92, 119, 49, 0.466);
+	/* For browsers that do not support gradients */
+	background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.445), rgba(192, 132, 63, 0.425), rgba(98, 138, 98, 0.37));
+
 }
-h3{
+
+h3 {
 	font-size: x-large;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
-	background-color:rgba(97, 138, 100, 0.466);
+	background-color: rgba(97, 138, 100, 0.466);
 	height: auto;
-  width: auto;
-  background-color: rgba(92, 119, 49, 0.418); /* For browsers that do not support gradients */
-  background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.459), rgba(192, 132, 63, 0.438) , rgba(98, 138, 98, 0.473) );
-	
+	width: auto;
+	background-color: rgba(92, 119, 49, 0.418);
+	/* For browsers that do not support gradients */
+	background-image: repeating-radial-gradient(rgba(105, 75, 126, 0.459), rgba(192, 132, 63, 0.438), rgba(98, 138, 98, 0.473));
+
 }
-.container{
+
+.container {
 	font-size: large;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
-	
+
 	height: auto;
 	width: auto;
-	background-color: rgba(211, 144, 57, 0.486); /* For browsers that do not support gradients */
-	background-image: repeating-radial-gradient(rgba(98, 138, 98, 0.466)15%,  rgba(192, 132, 63, 0.473) , rgba(98, 138, 98, 0.432));
-	
+	background-color: rgba(211, 144, 57, 0.486);
+	/* For browsers that do not support gradients */
+	background-image: repeating-radial-gradient(rgba(98, 138, 98, 0.466)15%, rgba(192, 132, 63, 0.473), rgba(98, 138, 98, 0.432));
+
 }
-.bodyText{
+
+.bodyText {
 	font-size: large;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
 	background-color: rgba(163, 160, 108, 0.418);
 	/* background: url(eberhard-grossgasteiger-TAltZdM1BGI-unsplash.jpg) fixed center; */
-	background: url(https://images.unsplash.com/photo-1542091607-f2c384a6af13?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80) fixed center;
-    background-size: cover;
+	background-size: cover;
 }
-.main{
+
+.main {
 	font-size: large;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
 	background-color: rgba(201, 178, 127, 0.486);
 	/* background: url(eberhard-grossgasteiger-TAltZdM1BGI-unsplash.jpg); */
 	/* background-size: cover; */
-	background: url(https://images.unsplash.com/photo-1475359524104-d101d02a042b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2057&q=80);
-    background-size: cover;
+	background-size: cover;
 }
-.title{
+
+.title {
 	font-size: x-large;
 	background-color: rgba(105, 98, 151, 0.432);
 
 }
-.button{
+
+.button {
 	font-size: xx-large;
 	color: white;
 	font-weight: 400;
 	text-shadow: 2px 2px 4px #000000;
-    background-color:rgba(97, 138, 100, 0.712);
+	background-color: rgba(97, 138, 100, 0.712);
 }
 
-.buttonlayout{
+.buttonlayout {
 	font-size: xx-large;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
-    background-color:rgba(200, 221, 200, 0.637);
+	background-color: rgba(200, 221, 200, 0.637);
 }
 
-.footer{
+.footer {
 	font-size: xx-large;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
 	background-color: rgba(199, 128, 95, 0.219);
 
 }
- 
-.main_photos{
+
+.main_photos {
 	border-radius: 20px;
 }
 
-.text_container{
-	background-color:rgba(200, 221, 200, 0.473);
+.text_container {
+	background-color: rgba(200, 221, 200, 0.473);
 	border: #000000;
 }
 
-.aboutMeCont{
-font-size: auto;
+.aboutMeCont {
+	font-size: auto;
 
 }
 
-.button:hover{
-	background-color:rgba(172, 246, 172, 0.692);
+.button:hover {
+	background-color: rgba(172, 246, 172, 0.692);
 }
- 
 
-.programContainer{
+
+.programContainer {
 	font-size: 25px;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
 
 	height: auto;
-  width: auto;
+	width: auto;
 }
 
-.projectHeader{
+.projectHeader {
 	font-size: 75px;
 	font-weight: 400;
 	color: white;
 	text-shadow: 10px 10px 20px #000000;
 	height: auto;
-  width: auto;
+	width: auto;
 }
-.headerProject{
+
+.headerProject {
 	font-size: 50px;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
 	height: auto;
-  width: auto;
+	width: auto;
 
-	
+
 }
 
-.skillBackground{
-background: url(https://images.unsplash.com/photo-1588097247274-a174dd59f20d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)fixed center;
-background-size: cover;
+.skillBackground {
+	background: url(https://images.unsplash.com/photo-1588097247274-a174dd59f20d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)fixed center;
+	background-size: cover;
 }
-.skillContainer{
+
+.skillContainer {
 	font-size: large;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
 	height: auto;
 	width: 50%;
-	
+
 }
 
 
 
-.skillText1{
+.skillText1 {
 	font-size: 25px;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
 }
 
-.skillText2{
+.skillText2 {
 	font-size: 25px;
 	color: white;
 	text-shadow: 2px 2px 4px #000000;
 }
 
-.indexBackground{
+.indexBackground {
 	background: url(https://images.unsplash.com/photo-1588097247274-a174dd59f20d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) fixed center;
 	background-size: cover;
-	}
+}
+
+.body {
+	background: url(https://images.unsplash.com/photo-1588097247274-a174dd59f20d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)fixed center;
+	background-size: cover;
+}
