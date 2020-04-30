@@ -116,21 +116,21 @@ About Me
 
 <button class="button">
 
-    <p><a href="Skills.html"> Skills </a> </p>
+    <p><a href="../nfada2010.github.io/Skills.html"> Skills </a> </p>
 </button>
 
 <button class="button">
 
-    <p><a href="Projects.html"> Projects </a> </p>
+    <p><a href="../nfada2010.github.io/Projects.html"> Projects </a> </p>
 </button>
 
 <button class="button">
 
-    <p><a href="Websites.html"> Websites </a> </p>
+    <p><a href="../nfada2010.github.io/Websites.html"> Websites </a> </p>
 </button>
 <button class="button">
 
-    <p><a href="index.html"> Back to the Main Page </a> </p>
+    <p><a href="../nfada2010.github.io/index.html"> Back to the Main Page </a> </p>
 </button>
 </footer>`
 }
