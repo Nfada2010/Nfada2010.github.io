@@ -1,8 +1,8 @@
 const indexContainer = document.querySelector(".index_container")
-const skillContainer = document.querySelector(".skill_container")
+// const skillContainer = document.querySelector(".skill_container")
 
 let aboutMeButton = document.querySelector(".about_me_button")
-let skillButton = document.querySelector(".skill_button")
+// let skillButton = document.querySelector(".skill_button")
 // let websiteButton = document.querySelector(".website_button")
 // let projectButton = document.querySelector(".project_button")
 // let homeButton = document.querySelector(".home_button")
@@ -136,81 +136,78 @@ About Me
 }
 
 
-const skill = () =>{
-    if (indexContainer.firstChild){
-        indexContainer.innerHTML = ""
-    }
-    const skillCard = document.createElement("div")
-    const skillAnchor = document.createElement("div")
-    skillAnchor.classList.add("skill_anchor")
-    skillAnchor.classList.add("skill_card")
-    indexContainer.appendChild(aboutMeAnchor)
-    skillAnchor.appendChild(skillCard)
-    skillCard.innerHTML = `
-    <header class="header">
-Skills
-</header>
-<div class="skillContainer">
-    <h1>
-        Technical Skills
-    </h1>
+// const skill = () =>{
+//     if (indexContainer.firstChild){
+//         indexContainer.innerHTML = ""
+//     }
+//     const skillCard = document.createElement("div")
+//     const skillAnchor = document.createElement("div")
+//     skillAnchor.classList.add("skill_anchor")
+//     skillAnchor.classList.add("skill_card")
+//     indexContainer.appendChild(aboutMeAnchor)
+//     skillAnchor.appendChild(skillCard)
+//     skillCard.innerHTML = `
+// <div class="skillContainer">
+//     <h1>
+//         Technical Skills
+//     </h1>
 
-    <div class="skillText1">
-        Java • Spring • Hibernate • JPA • JavaScript • MVC • HTML • CSS • Flexbox • 
-        Grid • TDD • Agile (Scrum) • Object Oriented Programming (OOP) • AJAX • JSON •
-        Restful APIs • Responsive Design / Mobile • Structured Query Language (SQL) • Relational Databases •
-        Source Control / Git
-    </div>
-    <main>
-        <img src="../Images/java-4-logo-png-transparent.png" alt="Java" width="auto" height="200px">
-        <img src="../Images/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="htmlCSSjs"
-            width="auto" height="200px">
-        <img src="../Images/githubTra.png" alt="github" width="auto" height="200px">
-    </main>
-    <h1>
-        Certifications
-    </h1>
+//     <div class="skillText1">
+//         Java • Spring • Hibernate • JPA • JavaScript • MVC • HTML • CSS • Flexbox • 
+//         Grid • TDD • Agile (Scrum) • Object Oriented Programming (OOP) • AJAX • JSON •
+//         Restful APIs • Responsive Design / Mobile • Structured Query Language (SQL) • Relational Databases •
+//         Source Control / Git
+//     </div>
+//     <main>
+//         <img src="../Images/java-4-logo-png-transparent.png" alt="Java" width="auto" height="200px">
+//         <img src="../Images/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="htmlCSSjs"
+//             width="auto" height="200px">
+//         <img src="../Images/githubTra.png" alt="github" width="auto" height="200px">
+//     </main>
+//     <h1>
+//         Certifications
+//     </h1>
 
-    <div class="skillText2">
-        WeCanCodeIt- Full Stack Software Developer
-        Lion Hazmat - Hazmat Certified
-        TSA - TSA Certified
-    </div>
-    <div class="certs">
-        <img src="../Images/wccit-logo-circle-sm.png" alt="wecancodeit" width="auto" height="200px">
-        <img src="../Images/download.png" alt="lionHazmat" width="auto" height="200px">
-        <img src="../Images/dhs_tsa_small_0.jpg" alt="tsa" width="auto" height="200px">
+//     <div class="skillText2">
+//         WeCanCodeIt- Full Stack Software Developer
+//         Lion Hazmat - Hazmat Certified
+//         TSA - TSA Certified
+//     </div>
+//     <div class="certs">
+//         <img src="../Images/wccit-logo-circle-sm.png" alt="wecancodeit" width="auto" height="200px">
+//         <img src="../Images/download.png" alt="lionHazmat" width="auto" height="200px">
+//         <img src="../Images/dhs_tsa_small_0.jpg" alt="tsa" width="auto" height="200px">
 
 
 
-    </div>
+//     </div>
 
 
 
-<div class="buttonHolder">
-    <button class="button">
+// <div class="buttonHolder">
+//     <button class="button">
 
-        <p><a href="aboutmepage.html"> About Me </a> </p>
-    </button>
+//         <p><a href="aboutmepage.html"> About Me </a> </p>
+//     </button>
 
-    <button class="button">
+//     <button class="button">
 
-        <p><a href="Projects.html"> Projects </a> </p>
-    </button>
+//         <p><a href="Projects.html"> Projects </a> </p>
+//     </button>
 
-    <button class="button">
+//     <button class="button">
 
-        <p><a href="Websites.html"> Websites </a> </p>
-    </button>
-    <button class="button">
+//         <p><a href="Websites.html"> Websites </a> </p>
+//     </button>
+//     <button class="button">
 
 
 
-        <p><a href="index.html"> Back to the Main Page </a> </p>
-    </button>
-</div>
-</div>`
-}
+//         <p><a href="index.html"> Back to the Main Page </a> </p>
+//     </button>
+// </div>
+// </div>`
+// }
 
 // const website = () =>{
 
@@ -226,7 +223,7 @@ Skills
 
 
 aboutMeButton.addEventListener("click",aboutMe)
-skillButton.addEventListener("click",skill)
+// skillButton.addEventListener("click",skill)
 // websiteButton.addEventListener("click",website)
 // projectButton.addEventListener("click",project)
 // homeButton.addEventListener("click",home)
